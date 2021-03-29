@@ -1,0 +1,27 @@
+---
+output: html_document
+---
+<style type="text/css">
+
+
+h2 { /* Header 2 */
+    font-size: 22px;
+  color: DarkBlue;
+}
+
+</style>
+
+
+## About
+
+The main idea of this application was taken from the shiny application of Yihui Xie, where an app with the voice recognition functionality is shown, to see this app link <a href="https://yihui.shinyapps.io/voice/" target="_blank">here</a>. This app was developed by Freddy F. Tapia C., to see my repository click <a href="https://github.com/Fr3ddy1" target="_blank">here</a>.
+
+<p align="center">
+  <img src="images/cred.jpg" height="300" width="600">
+</p>
+
+
+
+
+
+
